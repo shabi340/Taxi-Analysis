@@ -1,5 +1,3 @@
-# TaxiAnalysis
-
 # **NYC Taxi Analysis Project**
 
 *Overview*
