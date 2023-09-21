@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Power BI
+*.pbix
+
+# Data
+data/
+
+# Other
+.DS_Store
