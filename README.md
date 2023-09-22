@@ -3,6 +3,9 @@
 ## *Overview*
 *This project aims to conduct a comprehensive analysis and comparison of green and yellow taxis in New York City. The analysis includes factors such as trip distance, fare amounts, payment types, and customer preferences to provide insights for optimizing taxi services.*
 
+## **Visualization**
+![Power BI Dashboard](power_bi_dashboard.png)
+
 ## **Project Structure**
 
 - **data/**: This directory contains the sample datasets for Green and Yellow Taxis.
