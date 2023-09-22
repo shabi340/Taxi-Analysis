@@ -18,7 +18,7 @@
 
 Here is a screenshot of the Power BI dashboard:
 
-![Power BI Dashboard](visualizations/power_bi_dashboard.png)
+![Power BI Dashboard](power_bi_dashboard.png)
 
 
 ### **Recommendations**
